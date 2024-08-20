@@ -1,4 +1,4 @@
-# Public security presentations / talks
+# Security Presentations / Talks
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
 |Aug'19|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
