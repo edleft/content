@@ -1,7 +1,7 @@
 # Security Presentations / Talks
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
-|Aug'24|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://www.youtube.com/watch?v=brTnLvKUyDQ)|
+|Aug'24|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://drive.google.com/file/d/17uZNe7WZb531G4Y6qGVDcE9Y7b_2iyKP/view?usp=share_link)|
 |Aug'24|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires](DEFCON_32_Cloud_Village_Cloud_Tripwires_Jenko_Hwong.pdf)|
 |Aug'23|DEFCON&nbsp;31&nbsp;Cloud&nbsp;Village|[SSO: Sloppy, Suspect, Vulnerable](DEFCON_31_Cloud_Village_SSO_Sloppy_Suspect_Vulnerable_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=brTnLvKUyDQ)|
 |Apr'23|RSA&nbsp;2023|[The Dark Underbelly of 3rd-Party Application Access to Corporate Data](IDY-T01-The_Dark_Underbelly_of_3rd-Party_Application_Access_to_Corporate_Data_Final.pdf)|[Youtube](https://www.youtube.com/watch?v=qzA0Ehltdyc)|
