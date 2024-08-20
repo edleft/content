@@ -8,5 +8,7 @@
 |Aug'22|DEFCON&nbsp;30&nbsp;Cloud&nbsp;Village|[OAuthsome Magic Tricks: Yet more OAuth abuse](DEFCON_30_Cloud_Village_Oauthsome_Magic_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=F-s1OAq9C64)|
 |Jun'22|RSA&nbsp;2022|[Defending Against New Phishing Attacks that Abuse OAuth Authorization Flows](IDY-RO2_Defending_Against_New_Phishing_Attacks_that_Abuse_OAuth_Authorization_Flows.pdf)|[Youtube](https://www.youtube.com/watch?v=aBQTg3V53Fw)|
 |Aug'21|DEFCON&nbsp;29|[New Phishing Attacks Exploiting OAuth Authorization Flows](DEFCON_29_New_Phishing_Attacks_Exploiting_OAuth_Authorization_Flows_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=4J4RT4oMYdA)|
+|Dec'20|BlackHat&nbsp;Europe&nbsp;2020|[IAM Concerned: OAuth Token Hijacking in Google Cloud](eu-20-Hwong-IAM-Concerned-OAuth-Token-Hijacking-In-Google-Cloud-GCP.pdf)|[Youtube](https://www.youtube.com/watch?v=motZouxkVZ0)|
 |Aug'20|DEFCON&nbsp;Cloud&nbsp;28&nbsp;Village|[GCP OAuth Token Hijacking](DEFCON_28_Cloud_Village_GCP_OAuth_Token_Hijacking_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=mlUW77yxapQ&list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn&t=0)|
 |Aug'19|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
+
