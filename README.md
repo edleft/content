@@ -23,32 +23,32 @@
 |Sep'24|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
 |Aug'24|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure)|
 |Aug'23|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS)|
-|Aug'21|OAuth Device Code Flow Phishing Attack POC|Demo in DEF CON 29 talk|
+|Aug'21|[OAuth Device Code Flow Phishing Attack POC](https://github.com/netskopeoss/phish_oauth)|Demo in DEF CON 29 talk|
 
 # Blogs
 |Date|Title|Site|
 |:---|:----|:---|
-|Dec 02 2021|[Over-Privileged Service Accounts Create Escalation of Privileges and Lateral Movement in Google Cloud](https://www.netskope.com/blog/over-privileged-service-accounts-create-escalation-of-privileges-and-lateral-movement-in-google-cloud.html)|Netskope|
-|Sep 23 2021|[A Real-World Look at AWS Best Practices: Logging](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-logging.html)|Netskope|
-|Sep 14 2021|[Who Do You Trust? Challenges with OAuth Application Identity](https://www.netskope.com/blog/who-do-you-trust-challenges-with-oauth-application-identity.html)|Netskope|
-|Sep 07 2021|[A Real-World Look at AWS Best Practices: Networking](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-networking.html)|Netskope|
-|Aug 24 2021|[A Real-World Look at AWS Best Practices: Storage](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-storage.html)|Netskope|
-|Aug 12 2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 3)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authentication-flows-part-3.html)|Netskope|
-|Aug 10 2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 2)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authentication-flows-part-2.html)|Netskope|
-|Aug 10 2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 1)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authorization-flows-part-1.html)|Netskope|
-|Jun 15 2021|[Who Do You Trust? OAuth Client Application Trends](https://www.netskope.com/blog/who-do-you-trust-oauth-client-application-trends.html)|Netskope|
-|Jun 08 2021|[Operationalizing IP Allow Lists for Cloud Environments](https://www.netskope.com/blog/operationalizing-ip-allow-lists-for-cloud-environments.html)|Netskope|
-|Jun 03 2021|[A Real-World Look at AWS Best Practices: Password Policies](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-password-policies.html)|Netskope|
-|May 19 2021|[A Real-World Look at AWS Best Practices: IAM Policies](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-iam-policies.html)|Netskope|
-|May 06 2021|[A Real-World Look at AWS Best Practices: IAM User Accounts](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-iam-user-accounts.html)|Netskope|
-|Apr 22 2021|[A Real-World Look at AWS Best Practices: Root Accounts](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-root-accounts.html)|Netskope|
-|Feb 16 2021|[The Root of Your AWS Insecurities](https://www.netskope.com/blog/the-root-of-your-aws-insecurities.html)|Netskope|
-|Oct 06 2020|[It&#8217;s All About Access: Remote Access Statistics for Public Cloud Workloads](https://www.netskope.com/blog/its-all-about-access-remote-access-statistics-for-public-cloud-workloads.html)|Netskope|
-|Aug 25 2020|[GCP OAuth Token Hijacking in Google Cloud—Part 2](https://www.netskope.com/blog/gcp-oauth-token-hijacking-in-google-cloud-part-2.html)|Netskope|
-|Aug 07 2020|[GCP OAuth Token Hijacking in Google Cloud &#8211; Part 1](https://www.netskope.com/blog/gcp-oauth-token-hijacking-in-google-cloud-part-1.html)|Netskope|
-|May 06 2020|[AWS: Improve CloudTrail Logging for Assumed Role](https://www.netskope.com/blog/aws-improve-cloudtrail-logging-for-assumedrole-actions.html)|Netskope|
-|Jan 31 2020|[MITRE Att&#038;ck View: Securing AWS Temporary Tokens](https://www.netskope.com/blog/mitre-attack-view-securing-aws-temporary-tokens.html)|Netskope|
-|Jan 29 2020|[Applying MITRE Att&#038;ck](https://www.netskope.com/blog/applying-mitre-attack.html)|Netskope|
-|Nov 05 2019|[MITRE ATT&#038;CK Cloud Techniques](https://www.netskope.com/blog/mitre-attack-cloud-techniques.html)|Netskope|
-|Aug 10 2019|[Securing AWS Temporary Tokens](https://www.netskope.com/blog/securing-aws-temporary-tokens.html)|Netskope|
-|Jul 30 2019|[AWS S3 Logjam: Server Access Logging vs. Object-Level Logging](https://www.netskope.com/blog/aws-s3-logjam-server-access-logging-vs-object-level-logging.html)|Netskope|
+|Dec&nbsp;02&nbsp;2021|[Over-Privileged Service Accounts Create Escalation of Privileges and Lateral Movement in Google Cloud](https://www.netskope.com/blog/over-privileged-service-accounts-create-escalation-of-privileges-and-lateral-movement-in-google-cloud.html)|Netskope|
+|Sep&nbsp;23&nbsp;2021|[A Real-World Look at AWS Best Practices: Logging](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-logging.html)|Netskope|
+|Sep&nbsp;14&nbsp;2021|[Who Do You Trust? Challenges with OAuth Application Identity](https://www.netskope.com/blog/who-do-you-trust-challenges-with-oauth-application-identity.html)|Netskope|
+|Sep&nbsp;07&nbsp;2021|[A Real-World Look at AWS Best Practices: Networking](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-networking.html)|Netskope|
+|Aug&nbsp;24&nbsp;2021|[A Real-World Look at AWS Best Practices: Storage](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-storage.html)|Netskope|
+|Aug&nbsp;12&nbsp;2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 3)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authentication-flows-part-3.html)|Netskope|
+|Aug&nbsp;10&nbsp;2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 2)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authentication-flows-part-2.html)|Netskope|
+|Aug&nbsp;10&nbsp;2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 1)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authorization-flows-part-1.html)|Netskope|
+|Jun&nbsp;15&nbsp;2021|[Who Do You Trust? OAuth Client Application Trends](https://www.netskope.com/blog/who-do-you-trust-oauth-client-application-trends.html)|Netskope|
+|Jun&nbsp;08&nbsp;2021|[Operationalizing IP Allow Lists for Cloud Environments](https://www.netskope.com/blog/operationalizing-ip-allow-lists-for-cloud-environments.html)|Netskope|
+|Jun&nbsp;03&nbsp;2021|[A Real-World Look at AWS Best Practices: Password Policies](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-password-policies.html)|Netskope|
+|May&nbsp;19&nbsp;2021|[A Real-World Look at AWS Best Practices: IAM Policies](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-iam-policies.html)|Netskope|
+|May&nbsp;06&nbsp;2021|[A Real-World Look at AWS Best Practices: IAM User Accounts](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-iam-user-accounts.html)|Netskope|
+|Apr&nbsp;22&nbsp;2021|[A Real-World Look at AWS Best Practices: Root Accounts](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-root-accounts.html)|Netskope|
+|Feb&nbsp;16&nbsp;2021|[The Root of Your AWS Insecurities](https://www.netskope.com/blog/the-root-of-your-aws-insecurities.html)|Netskope|
+|Oct&nbsp;06&nbsp;2020|[It&#8217;s All About Access: Remote Access Statistics for Public Cloud Workloads](https://www.netskope.com/blog/its-all-about-access-remote-access-statistics-for-public-cloud-workloads.html)|Netskope|
+|Aug&nbsp;25&nbsp;2020|[GCP OAuth Token Hijacking in Google Cloud—Part 2](https://www.netskope.com/blog/gcp-oauth-token-hijacking-in-google-cloud-part-2.html)|Netskope|
+|Aug&nbsp;07&nbsp;2020|[GCP OAuth Token Hijacking in Google Cloud &#8211; Part 1](https://www.netskope.com/blog/gcp-oauth-token-hijacking-in-google-cloud-part-1.html)|Netskope|
+|May&nbsp;06&nbsp;2020|[AWS: Improve CloudTrail Logging for Assumed Role](https://www.netskope.com/blog/aws-improve-cloudtrail-logging-for-assumedrole-actions.html)|Netskope|
+|Jan&nbsp;31&nbsp;2020|[MITRE Att&#038;ck View: Securing AWS Temporary Tokens](https://www.netskope.com/blog/mitre-attack-view-securing-aws-temporary-tokens.html)|Netskope|
+|Jan&nbsp;29&nbsp;2020|[Applying MITRE Att&#038;ck](https://www.netskope.com/blog/applying-mitre-attack.html)|Netskope|
+|Nov&nbsp;05&nbsp;2019|[MITRE ATT&#038;CK Cloud Techniques](https://www.netskope.com/blog/mitre-attack-cloud-techniques.html)|Netskope|
+|Aug&nbsp;10&nbsp;2019|[Securing AWS Temporary Tokens](https://www.netskope.com/blog/securing-aws-temporary-tokens.html)|Netskope|
+|Jul&nbsp;30&nbsp;2019|[AWS S3 Logjam: Server Access Logging vs. Object-Level Logging](https://www.netskope.com/blog/aws-s3-logjam-server-access-logging-vs-object-level-logging.html)|Netskope|
