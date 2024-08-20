@@ -1,4 +1,4 @@
-# Security Presentations | Talks
+# Presentations
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
 |Aug'24|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://drive.google.com/file/d/17uZNe7WZb531G4Y6qGVDcE9Y7b_2iyKP/view?usp=share_link)|
