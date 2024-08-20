@@ -12,3 +12,7 @@
 |Aug'20|DEFCON&nbsp;Cloud&nbsp;28&nbsp;Village|[GCP OAuth Token Hijacking](DEFCON_28_Cloud_Village_GCP_OAuth_Token_Hijacking_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=mlUW77yxapQ&list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn&t=0)|
 |Aug'19|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
 
+# Papers
+|Date|Paper|Publication|
+|:-----|:-----------------|:-----------|
+|May'24|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volum 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|
