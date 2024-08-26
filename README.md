@@ -1,3 +1,21 @@
+# Projects
+|Date  |Title|Notes|
+|:-----|:----|:----|
+|Sep'24|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
+|Aug'24|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure)|
+|Aug'23|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS)|
+|Aug'21|[OAuth Device Code Flow Phishing Attack POC](https://github.com/netskopeoss/phish_oauth)|Demo in DEF CON 29 talk|
+
+# Papers
+|Date|Paper|Publication|
+|:-----|:-----------------|:-----------|
+|May'24|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volum 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|
+
+# Interviews
+|Date|Title|Publication|
+|:-----|:-----------------|:-----------|
+| 1/22/24 | [Guardians of the Internet: Cybersecurity for Business Leaders](https://www.bfm.my/podcast/enterprise/resource-centre/guardians-of-the-internet-cybersecurity-for-business-leaders)|[Radio BFM 89.9, Kuala Lumpur, Malaysia, Richard Bradbury](https://www.bfm.my/)
+
 # Presentations
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
@@ -11,19 +29,6 @@
 |Dec'20|BlackHat&nbsp;Europe&nbsp;2020|[IAM Concerned: OAuth Token Hijacking in Google Cloud](eu-20-Hwong-IAM-Concerned-OAuth-Token-Hijacking-In-Google-Cloud-GCP.pdf)|[Youtube](https://www.youtube.com/watch?v=motZouxkVZ0)|
 |Aug'20|DEFCON&nbsp;Cloud&nbsp;28&nbsp;Village|[GCP OAuth Token Hijacking](DEFCON_28_Cloud_Village_GCP_OAuth_Token_Hijacking_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=mlUW77yxapQ&list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn&t=0)|
 |Aug'19|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
-
-# Papers
-|Date|Paper|Publication|
-|:-----|:-----------------|:-----------|
-|May'24|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volum 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|
-
-# Projects
-|Date  |Title|Notes|
-|:-----|:----|:----|
-|Sep'24|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
-|Aug'24|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure)|
-|Aug'23|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS)|
-|Aug'21|[OAuth Device Code Flow Phishing Attack POC](https://github.com/netskopeoss/phish_oauth)|Demo in DEF CON 29 talk|
 
 # Blogs
 |Date|Title|Site|
