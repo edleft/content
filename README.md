@@ -23,7 +23,7 @@
 # Papers
 |Date|Paper|Publication|
 |:-----|:-----------------|:-----------|
-|May'24|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volum 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|
+|May'24|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volume 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|
 
 # Interviews
 |Date|Title|Organization|
