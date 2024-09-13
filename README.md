@@ -21,16 +21,11 @@
 |Aug&nbsp;2019|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
 
 # Peer-Reviewed Papers | Reports | Whitepapers
-|Date|Title|Publication \| Site|
-|:-----|:-----------------|:-----------|
-|Sep&nbsp;2024|[Effective C2 Beaconing Detection](https://www.netskope.com/netskope-threat-labs/effective-c2-beaconing-detection)|Netskope|
-|Jul&nbsp;2024|[Cloud and Threat Report: AI Apps in the Enterprise](https://www.netskope.com/netskope-threat-labs/cloud-threat-report/july-2024-ai-apps-in-the-enterprise)|Netskope|
-|May&nbsp;2024|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volume 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|
-
-# Interviews
-|Date|Title|Organization|
-|:-----|:-----------------|:-----------|
-|Jan&nbsp;22&nbsp;2024 | [Guardians of the Internet: Cybersecurity for Business Leaders](https://www.bfm.my/podcast/enterprise/resource-centre/guardians-of-the-internet-cybersecurity-for-business-leaders)|[Radio BFM 89.9, Kuala Lumpur, Malaysia, Richard Bradbury](https://www.bfm.my/)
+|Date|Title|Publication \| Site|Type|
+|:-----|:-----------------|:-----------|:----|
+|Sep&nbsp;2024|[Effective C2 Beaconing Detection](https://www.netskope.com/netskope-threat-labs/effective-c2-beaconing-detection)|Netskope|Whitepaper|
+|Jul&nbsp;2024|[Cloud and Threat Report: AI Apps in the Enterprise](https://www.netskope.com/netskope-threat-labs/cloud-threat-report/july-2024-ai-apps-in-the-enterprise)|Netskope|Report|
+|May&nbsp;2024|[Analysing and managing risk from third-party OAuth application access](CyberSecurity_3rdPartyAppRisk_Hwong_20231102.pdf)|[Cyber Security: A Peer-Reviewed Journal, Volume 7 (2023-24), Henry Stewart Publications](https://www.henrystewartpublications.com/csj/v7)|Peer&#8209;Review|
 
 # Blogs
 |Date|Title|Site|
@@ -59,3 +54,8 @@
 |Nov&nbsp;05&nbsp;2019|[MITRE ATT&#038;CK Cloud Techniques](https://www.netskope.com/blog/mitre-attack-cloud-techniques.html)|Netskope|
 |Aug&nbsp;10&nbsp;2019|[Securing AWS Temporary Tokens](https://www.netskope.com/blog/securing-aws-temporary-tokens.html)|Netskope|
 |Jul&nbsp;30&nbsp;2019|[AWS S3 Logjam: Server Access Logging vs. Object-Level Logging](https://www.netskope.com/blog/aws-s3-logjam-server-access-logging-vs-object-level-logging.html)|Netskope|
+
+# Interviews
+|Date|Title|Organization|
+|:-----|:-----------------|:-----------|
+|Jan&nbsp;22&nbsp;2024 | [Guardians of the Internet: Cybersecurity for Business Leaders](https://www.bfm.my/podcast/enterprise/resource-centre/guardians-of-the-internet-cybersecurity-for-business-leaders)|[Radio BFM 89.9, Kuala Lumpur, Malaysia, Richard Bradbury](https://www.bfm.my/)
