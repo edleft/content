@@ -1,24 +1,24 @@
 # Projects
 |Date  |Title|Notes|
 |:-----|:----|:----|
-|Sep 2024|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
-|Aug 2024|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure)|
-|Aug 2023|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS)|
-|Aug 2021|[OAuth Device Code Flow Phishing Attack POC](https://github.com/netskopeoss/phish_oauth)|Demo in DEF CON 29 talk|
+|Sep&nbsp;2024|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
+|Aug&nbsp;2024|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure)|
+|Aug&nbsp;2023|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS)|
+|Aug&nbsp;2021|[OAuth Device Code Flow Phishing Attack POC](https://github.com/netskopeoss/phish_oauth)|Demo in DEF CON 29 talk|
 
 # Presentations
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
-|Aug 2024|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://drive.google.com/file/d/17uZNe7WZb531G4Y6qGVDcE9Y7b_2iyKP/view?usp=share_link)|
-|Aug 2024|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires](DEFCON_32_Cloud_Village_Cloud_Tripwires_Jenko_Hwong.pdf)|
-|Aug 2023|DEFCON&nbsp;31&nbsp;Cloud&nbsp;Village|[SSO: Sloppy, Suspect, Vulnerable](DEFCON_31_Cloud_Village_SSO_Sloppy_Suspect_Vulnerable_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=brTnLvKUyDQ)|
-|Apr 2023|RSA&nbsp;2023|[The Dark Underbelly of 3rd-Party Application Access to Corporate Data](IDY-T01-The_Dark_Underbelly_of_3rd-Party_Application_Access_to_Corporate_Data_Final.pdf)|[Youtube](https://www.youtube.com/watch?v=qzA0Ehltdyc)|
-|Aug 2022|DEFCON&nbsp;30&nbsp;Cloud&nbsp;Village|[OAuthsome Magic Tricks: Yet more OAuth abuse](DEFCON_30_Cloud_Village_Oauthsome_Magic_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=F-s1OAq9C64)|
-|Jun 2022|RSA&nbsp;2022|[Defending Against New Phishing Attacks that Abuse OAuth Authorization Flows](IDY-RO2_Defending_Against_New_Phishing_Attacks_that_Abuse_OAuth_Authorization_Flows.pdf)|[Youtube](https://www.youtube.com/watch?v=aBQTg3V53Fw)|
-|Aug 2021|DEFCON&nbsp;29|[New Phishing Attacks Exploiting OAuth Authorization Flows](DEFCON_29_New_Phishing_Attacks_Exploiting_OAuth_Authorization_Flows_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=4J4RT4oMYdA)|
-|Dec 2020|BlackHat&nbsp;Europe&nbsp;2020|[IAM Concerned: OAuth Token Hijacking in Google Cloud](eu-20-Hwong-IAM-Concerned-OAuth-Token-Hijacking-In-Google-Cloud-GCP.pdf)|[Youtube](https://www.youtube.com/watch?v=motZouxkVZ0)|
-|Aug 2020|DEFCON&nbsp;Cloud&nbsp;28&nbsp;Village|[GCP OAuth Token Hijacking](DEFCON_28_Cloud_Village_GCP_OAuth_Token_Hijacking_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=mlUW77yxapQ&list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn&t=0)|
-|Aug 2019|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
+|Aug&nbsp;2024|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://drive.google.com/file/d/17uZNe7WZb531G4Y6qGVDcE9Y7b_2iyKP/view?usp=share_link)|
+|Aug&nbsp;2024|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires](DEFCON_32_Cloud_Village_Cloud_Tripwires_Jenko_Hwong.pdf)|
+|Aug&nbsp;2023|DEFCON&nbsp;31&nbsp;Cloud&nbsp;Village|[SSO: Sloppy, Suspect, Vulnerable](DEFCON_31_Cloud_Village_SSO_Sloppy_Suspect_Vulnerable_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=brTnLvKUyDQ)|
+|Apr&nbsp;2023|RSA&nbsp;2023|[The Dark Underbelly of 3rd-Party Application Access to Corporate Data](IDY-T01-The_Dark_Underbelly_of_3rd-Party_Application_Access_to_Corporate_Data_Final.pdf)|[Youtube](https://www.youtube.com/watch?v=qzA0Ehltdyc)|
+|Aug&nbsp;2022|DEFCON&nbsp;30&nbsp;Cloud&nbsp;Village|[OAuthsome Magic Tricks: Yet more OAuth abuse](DEFCON_30_Cloud_Village_Oauthsome_Magic_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=F-s1OAq9C64)|
+|Jun&nbsp;2022|RSA&nbsp;2022|[Defending Against New Phishing Attacks that Abuse OAuth Authorization Flows](IDY-RO2_Defending_Against_New_Phishing_Attacks_that_Abuse_OAuth_Authorization_Flows.pdf)|[Youtube](https://www.youtube.com/watch?v=aBQTg3V53Fw)|
+|Aug&nbsp;2021|DEFCON&nbsp;29|[New Phishing Attacks Exploiting OAuth Authorization Flows](DEFCON_29_New_Phishing_Attacks_Exploiting_OAuth_Authorization_Flows_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=4J4RT4oMYdA)|
+|Dec&nbsp;2020|BlackHat&nbsp;Europe&nbsp;2020|[IAM Concerned: OAuth Token Hijacking in Google Cloud](eu-20-Hwong-IAM-Concerned-OAuth-Token-Hijacking-In-Google-Cloud-GCP.pdf)|[Youtube](https://www.youtube.com/watch?v=motZouxkVZ0)|
+|Aug&nbsp;2020|DEFCON&nbsp;Cloud&nbsp;28&nbsp;Village|[GCP OAuth Token Hijacking](DEFCON_28_Cloud_Village_GCP_OAuth_Token_Hijacking_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=mlUW77yxapQ&list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn&t=0)|
+|Aug&nbsp;2019|DEFCON&nbsp;27&nbsp;Cloud&nbsp;Village|[Exploiting AWS Loopholes with Temporary Credentials](DEFCON_27_Cloud_Village_Exploiting_AWS_Loopholes_With_Temporary_Credentials_Jenko_Hwong.pdf)||
 
 # Peer-Reviewed Papers | Reports | Whitepapers
 |Date|Title|Publication \| Site|
@@ -30,7 +30,7 @@
 # Interviews
 |Date|Title|Organization|
 |:-----|:-----------------|:-----------|
-| Jan&nbsp;22&nbsp;2024 | [Guardians of the Internet: Cybersecurity for Business Leaders](https://www.bfm.my/podcast/enterprise/resource-centre/guardians-of-the-internet-cybersecurity-for-business-leaders)|[Radio BFM 89.9, Kuala Lumpur, Malaysia, Richard Bradbury](https://www.bfm.my/)
+|Jan&nbsp;22&nbsp;2024 | [Guardians of the Internet: Cybersecurity for Business Leaders](https://www.bfm.my/podcast/enterprise/resource-centre/guardians-of-the-internet-cybersecurity-for-business-leaders)|[Radio BFM 89.9, Kuala Lumpur, Malaysia, Richard Bradbury](https://www.bfm.my/)
 
 # Blogs
 |Date|Title|Site|
