@@ -30,6 +30,11 @@
 # Blogs
 |Date|Title|Site|
 |:---|:----|:---|
+|Dec 02 2021|[Over-Privileged Service Accounts Create Escalation of Privileges and Lateral Movement in Google Cloud](https://www.netskope.com/blog/over-privileged-service-accounts-create-escalation-of-privileges-and-lateral-movement-in-google-cloud)|Netskope|
+|Sep 23 2021|[A Real-World Look at AWS Best Practices: Logging](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-logging)|Netskope|
+|Sep 14 2021|[Who Do You Trust? Challenges with OAuth Application Identity](https://www.netskope.com/blog/who-do-you-trust-challenges-with-oauth-application-identity)|Netskope|
+|Sep 07 2021|[A Real-World Look at AWS Best Practices: Networking](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-networking)|Netskope|
+|Aug 24 2021|[A Real-World Look at AWS Best Practices: Storage](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-storage)|Netskope|
 |Aug&nbsp;12&nbsp;2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 3)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authentication-flows-part-3)|Netskope|
 |Aug&nbsp;10&nbsp;2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 2)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authentication-flows-part-2)|Netskope|
 |Aug&nbsp;10&nbsp;2021|[New Phishing Attacks Exploiting OAuth Authorization Flows (Part 1)](https://www.netskope.com/blog/new-phishing-attacks-exploiting-oauth-authorization-flows-part-1)|Netskope|
