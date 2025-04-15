@@ -31,6 +31,8 @@
 # Blogs
 |Date|Title|Site|
 |:---|:----|:---|
+|Mar&nbsp;04&nbsp;2025|[SCuBA or Snorkel: Does the new CISA BOD go deep enough?](https://www.widefield.ai/blog/scuba-or-snorkel-does-the-new-cisa-bod-go-deep-enough)|WideField|
+|Feb&nbsp;18&nbsp;2025|[Bunker Down: A Storm of Device Code Attacks](https://www.widefield.ai/blog/bunker-down-a-storm-of-device-code-attacks)|WideField|
 |Dec&nbsp;02&nbsp;2021|[Over-Privileged Service Accounts Create Escalation of Privileges and Lateral Movement in Google Cloud](https://www.netskope.com/blog/over-privileged-service-accounts-create-escalation-of-privileges-and-lateral-movement-in-google-cloud)|Netskope|
 |Sep&nbsp;23&nbsp;2021|[A Real-World Look at AWS Best Practices: Logging](https://www.netskope.com/blog/a-real-world-look-at-aws-best-practices-logging)|Netskope|
 |Sep&nbsp;14&nbsp;2021|[Who Do You Trust? Challenges with OAuth Application Identity](https://www.netskope.com/blog/who-do-you-trust-challenges-with-oauth-application-identity)|Netskope|
