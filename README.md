@@ -12,7 +12,7 @@
 |:---|:-----------------|:-----------|:----|
 |Apr&nbsp;2025|RSAC&nbsp;2025|[Keys to the Azure Kingdom: Detecting Service Principal Abuse](HT-M03_Keys_Azure_Kingdom_Service_Principals.pdf)|TBD|
 |Apr&nbsp;2025|RSAC&nbsp;2025|[Canary in the Cloud Mine: Stealthy Tripwires to Detect Post-Breach Activity](CLS-T02_Canary_Cloud_Mine.pdf)|TBD|
-|Apr&nbsp;2025|RSAC&nbsp;2022|Lab: Solving Capture-The-Flag Challenges in AWS, Azure, and GCP||
+|Apr&nbsp;2025|RSAC&nbsp;2025|Lab: Solving Capture-The-Flag Challenges in AWS, Azure, and GCP||
 |Apr&nbsp;2025|BSidesCharm&nbsp;2025|[Fight Stealth with Stealth: Detecting post-breach activity in the Cloud](Charm_Fight_Stealth_With_Stealth.pdf)|[Youtube](https://www.youtube.com/watch?v=4d1HlKO8laY&list=PLKRput5_6qN_HLwC-8Thf5SH4EGQnrG_r)|
 |Aug&nbsp;2024|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://drive.google.com/file/d/17uZNe7WZb531G4Y6qGVDcE9Y7b_2iyKP/view?usp=share_link)|
 |Aug&nbsp;2024|DEFCON&nbsp;32&nbsp;Cloud&nbsp;Village|[Cloud Tripwires](DEFCON_32_Cloud_Village_Cloud_Tripwires_Jenko_Hwong.pdf)|
