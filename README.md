@@ -10,7 +10,7 @@
 # Presentations | Conferences
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
-|Apr&nbsp;2025|RSAC&nbsp;2025|[Keys to the Azure Kingdom: Detecting Service Principal Abuse](HT-M03_Keys_Azure_Kingdom_Service_Principals.pdf)|TBD|
+|Apr&nbsp;2025|RSAC&nbsp;2025|[Keys to the Azure Kingdom: Detecting Service Principal Abuse](HT-M03_Keys_Azure_Kingdom_Service_Principals.pdf)|[Youtube](https://www.youtube.com/watch?v=ppsQ_1uW_Pk)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|[Canary in the Cloud Mine: Stealthy Tripwires to Detect Post-Breach Activity](CLS-T02_Canary_Cloud_Mine.pdf)|TBD|
 |Apr&nbsp;2025|RSAC&nbsp;2025|Lab: Solving Capture-The-Flag Challenges in AWS, Azure, and GCP||
 |Apr&nbsp;2025|BSidesCharm&nbsp;2025|[Fight Stealth with Stealth: Detecting post-breach activity in the Cloud](Charm_Fight_Stealth_With_Stealth.pdf)|[Youtube](https://www.youtube.com/watch?v=4d1HlKO8laY&list=PLKRput5_6qN_HLwC-8Thf5SH4EGQnrG_r)|
