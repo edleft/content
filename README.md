@@ -1,7 +1,7 @@
 # Projects | Code
 |Date  |Title|Notes|
 |:-----|:----|:----|
-|Apr&nbsp;2025|[Storm-2372 Attack POC](https://github.com/edleft/rsac2025/tree/main/storm2372)|Referenced in RSA 2025 talk|
+|Apr&nbsp;2025|[Storm-2372 Attack POC](https://github.com/edleft/rsac2025/tree/main/storm2372)|Referenced in RSA 2025, DEFCON 33 Cloud Village talks|
 |Sep&nbsp;2024|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
 |Aug&nbsp;2024|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure)|
 |Aug&nbsp;2023|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS)|
