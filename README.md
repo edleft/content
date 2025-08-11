@@ -2,7 +2,7 @@
 |Date  |Title|Notes|
 |:-----|:----|:----|
 |Aug&nbsp;2025|DEFCON 33 Cloud Village CTF|Created Cloud Walker Challenge (AWS & Azure persistence and lateral movement)|
-|Aug/Apr&nbsp;2025|[Storm-2372 Attack POC](https://github.com/edleft/content/tree/main/defcon33_cloud_village/storm2372)|Referenced in RSA 2025, DEFCON 33 Cloud Village talks|
+|Aug/Apr&nbsp;2025|[Storm-2372 Attack POC](https://github.com/edleft/content/tree/main/defcon33_cloud_village/storm2372)|Demo in RSA 2025, DEFCON 33 Cloud Village talks|
 |Sep&nbsp;2024|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
 |Aug&nbsp;2024|DEFCON 32 Cloud Village CTF|Created Identity Quest Challenge (Azure Device Code Phishing)|
 |Aug&nbsp;2023|DEFCON 31 Cloud Village CTF|Created Source of Your Troubles + Oldie But Goodie Challenges (AWS Lambda and IAM Priv Esc)|
