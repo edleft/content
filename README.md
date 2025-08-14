@@ -11,7 +11,7 @@
 # Presentations | Conferences
 |Date|Conference / Venue|Slides|Video|
 |:---|:-----------------|:-----------|:----|
-|Aug&nbsp;2025|DEFCON&nbsp;Cloud&nbsp;Village|[Braving the Storm-2372: The Tempest Decoded](defcon33_cloud_village)|
+|Aug&nbsp;2025|DEFCON&nbsp;Cloud&nbsp;Village|[Braving the Storm-2372: The Tempest Decoded](https://github.com/edleft/content/blob/main/defcon33_cloud_village/Braving_The_Storm-2372_Tempest_Decoded.pdf)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|[Keys to the Azure Kingdom: Detecting Service Principal Abuse](HT-M03_Keys_Azure_Kingdom_Service_Principals.pdf)|[Youtube](https://www.youtube.com/watch?v=ppsQ_1uW_Pk)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|[Canary in the Cloud Mine: Stealthy Tripwires to Detect Post-Breach Activity](CLS-T02_Canary_Cloud_Mine.pdf)|[Youtube](https://www.youtube.com/watch?v=F0PfQ0FvQhM)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|Lab: Solving Capture-The-Flag Challenges in AWS, Azure, and GCP||
