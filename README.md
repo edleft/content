@@ -1,4 +1,3 @@
-
 # Projects | Code
 |Date  |Title|Notes|
 |:-----|:----|:----|
