@@ -1,7 +1,7 @@
 # Projects | Code
 |Date  |Title|Notes|
 |:-----|:----|:----|
-|Aug&nbsp;2026|[CloudBasher API/POC](https://github.com/edleft/content/tree/main/cloudbasher)|Related to DEF CON 34 talk|
+|Aug&nbsp;2026|[CloudBasher API/POC](https://github.com/edleft/cloudbasher)|Related to DEF CON 34 talk|
 |Aug&nbsp;2025|DEFCON 33 Cloud Village CTF|Created Cloud Walker Challenge (AWS & Azure persistence and lateral movement)|
 |Aug/Apr&nbsp;2025|[Storm-2372 Attack POC](https://github.com/edleft/content/tree/main/defcon33_cloud_village/storm2372)|Demo in RSA 2025, DEFCON 33 Cloud Village talks|
 |Sep&nbsp;2024|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
@@ -12,7 +12,7 @@
 # Presentations | Conferences
 |Date|Conference|Venue|Slides      |Video|
 |:---|:---------|-----|:-----------|:----|
-|Aug&nbsp;2026|DEFCON&nbsp;34|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](https://github.com/edleft/content/blob/main/cloudbasher)|[Youtube](https://www.youtube.com/live/oOTYH69YSRs?t=24185s)|
+|Aug&nbsp;2026|DEFCON&nbsp;34|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](https://github.com/edleft/cloudbasher)|[Youtube](https://www.youtube.com/live/oOTYH69YSRs?t=24185s)|
 |Aug&nbsp;2025|DEFCON&nbsp;33|Cloud&nbsp;Village|[Braving the Storm-2372: The Tempest Decoded](https://github.com/edleft/content/blob/main/defcon33_cloud_village/Braving_The_Storm-2372_Tempest_Decoded.pdf)|[Youtube](https://www.youtube.com/watch?v=2ce3wOUEW2U)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|Main Stage|[Keys to the Azure Kingdom: Detecting Service Principal Abuse](HT-M03_Keys_Azure_Kingdom_Service_Principals.pdf)|[Youtube](https://www.youtube.com/watch?v=ppsQ_1uW_Pk)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|Main Stage|[Canary in the Cloud Mine: Stealthy Tripwires to Detect Post-Breach Activity](CLS-T02_Canary_Cloud_Mine.pdf)|[Youtube](https://www.youtube.com/watch?v=F0PfQ0FvQhM)|
