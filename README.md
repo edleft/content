@@ -1,7 +1,7 @@
 # Projects | Code
 |Date  |Title|Notes|
 |:-----|:----|:----|
-|Aug&nbsp;2026|[CloudBasher API/POC](https://github.com/edleft/cloudbasher)|Related to DEF CON 34 talk|
+|Aug&nbsp;2026|[CloudShell API/CloudBasher POC](https://github.com/edleft/cloudbasher)|Related to DEF CON 34 talk|
 |Aug&nbsp;2025|DEFCON 33 Cloud Village CTF|Created Cloud Walker Challenge (AWS & Azure persistence and lateral movement)|
 |Aug/Apr&nbsp;2025|[Storm-2372 Attack POC](https://github.com/edleft/content/tree/main/defcon33_cloud_village/storm2372)|Demo in RSA 2025, DEFCON 33 Cloud Village talks|
 |Sep&nbsp;2024|Cloud Tripwires POC|Related to DEF CON 32 Cloud Village talk|
