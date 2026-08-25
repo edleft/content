@@ -12,7 +12,12 @@
 # Presentations | Conferences
 |Date|Conference|Venue|Slides      |Video|
 |:---|:---------|-----|:-----------|:----|
-|Aug&nbsp;2026|DEFCON&nbsp;34|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](https://github.com/edleft/cloudbasher)|[Youtube](https://www.youtube.com/live/oOTYH69YSRs?t=24185s)|
+|Aug&nbsp;2026|DEFCON&nbsp;34|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](DC34_MainStage_CloudBashing.pdf)|[Youtube](https://www.youtube.com/live/oOTYH69YSRs?t=24185s)|
+|Aug&nbsp;2026|DEFCON&nbsp;34|Cloud&nbsp;Village|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](DC34_CloudVillage.pdf)|Youtube TBD|
+|Aug&nbsp;2026|BSidesLV&nbsp;2026|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](BSidesLV_2026.pdf)|[Youtube](https://www.youtube.com/live/tzdVnYZYvcM?si=1L6aw1UR8r87pXLS&t=6133)|
+|Apr&nbsp;2026|BSidesCharm&nbsp;2026|Main&nbsp;Stage|[CloudShell Abuse: a CTF, API, and persistent access to CPU/network/storage](BSidesCharm_2026_CloudShell_Abuse.pdf)|[Youtube]()|
+|Mar&nbsp;2026|RSAC&nbsp;2026|Main&nbsp;Stage|[Storms on the Horizon: Defending Against the Next Storm-2372](HT-T01-Storms-Horizon-Defending-Next-Storm-2372.pdf)|[Youtube]()|
+|Mar&nbsp;2026|BSidesSF&nbsp;2026|Main&nbsp;Stage|[CloudShell Hide-n-Seek: Enjoying the Sweet PErsistent Sounds of Silence!](BSSF_2026_CloudShell_HideNSeek.pdf)|[Youtube]()|
 |Aug&nbsp;2025|DEFCON&nbsp;33|Cloud&nbsp;Village|[Braving the Storm-2372: The Tempest Decoded](https://github.com/edleft/content/blob/main/defcon33_cloud_village/Braving_The_Storm-2372_Tempest_Decoded.pdf)|[Youtube](https://www.youtube.com/watch?v=2ce3wOUEW2U)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|Main Stage|[Keys to the Azure Kingdom: Detecting Service Principal Abuse](HT-M03_Keys_Azure_Kingdom_Service_Principals.pdf)|[Youtube](https://www.youtube.com/watch?v=ppsQ_1uW_Pk)|
 |Apr&nbsp;2025|RSAC&nbsp;2025|Main Stage|[Canary in the Cloud Mine: Stealthy Tripwires to Detect Post-Breach Activity](CLS-T02_Canary_Cloud_Mine.pdf)|[Youtube](https://www.youtube.com/watch?v=F0PfQ0FvQhM)|
