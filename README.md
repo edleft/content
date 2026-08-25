@@ -12,8 +12,10 @@
 # Presentations | Conferences
 |Date|Conference|Venue|Slides      |Video|
 |:---|:---------|-----|:-----------|:----|
+|Oct&nbsp;2026|SECTOR&nbsp;2026|Main&nbsp;Stage|||
+|Oct&nbsp;2026|SECTOR&nbsp;2026|Arsenal|||
 |Aug&nbsp;2026|DEFCON&nbsp;34|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](DC34_MainStage_CloudBashing.pdf)|[Youtube](https://www.youtube.com/live/oOTYH69YSRs?t=24185s)|
-|Aug&nbsp;2026|DEFCON&nbsp;34|Cloud&nbsp;Village|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](DC34_CloudVillage.pdf)|Youtube TBD|
+|Aug&nbsp;2026|DEFCON&nbsp;34|Cloud&nbsp;Village|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](DC34_CloudVillage.pdf)||
 |Aug&nbsp;2026|BSidesLV&nbsp;2026|Main&nbsp;Stage|[CloudBashing: Exploiting free CloudShells for mining, networking, exfil, and persistence at scale](BSidesLV_2026.pdf)|[Youtube](https://www.youtube.com/live/tzdVnYZYvcM?si=1L6aw1UR8r87pXLS&t=6133)|
 |Apr&nbsp;2026|BSidesCharm&nbsp;2026|Main&nbsp;Stage|[CloudShell Abuse: a CTF, API, and persistent access to CPU/network/storage](BSidesCharm_2026_CloudShell_Abuse.pdf)|[Youtube]()|
 |Mar&nbsp;2026|RSAC&nbsp;2026|Main&nbsp;Stage|[Storms on the Horizon: Defending Against the Next Storm-2372](HT-T01-Storms-Horizon-Defending-Next-Storm-2372.pdf)|[Youtube]()|
@@ -25,11 +27,12 @@
 |Apr&nbsp;2025|BSidesCharm&nbsp;2025|Main Stage|[Fight Stealth with Stealth: Detecting post-breach activity in the Cloud](Charm_Fight_Stealth_With_Stealth.pdf)|[Youtube](https://www.youtube.com/watch?v=4d1HlKO8laY&list=PLKRput5_6qN_HLwC-8Thf5SH4EGQnrG_r)|
 |Aug&nbsp;2024|DEFCON&nbsp;32|Cloud&nbsp;Village|[Cloud Tripwires Extended Deck](CloudTripwires_v3_slides.pdf)|[GDrive](https://drive.google.com/file/d/17uZNe7WZb531G4Y6qGVDcE9Y7b_2iyKP/view?usp=share_link)|
 |Aug&nbsp;2024|DEFCON&nbsp;32|Cloud&nbsp;Village|[Cloud Tripwires](DEFCON_32_Cloud_Village_Cloud_Tripwires_Jenko_Hwong.pdf)|
+|Apr&nbsp;2024|RSAC&nbsp;2024|Lab|Lab: Advanced Discovery, Persistence, and Privilege Escalation in AWS, GCP, Azure||
 |Aug&nbsp;2023|DEFCON&nbsp;31|Cloud&nbsp;Village|[SSO: Sloppy, Suspect, Vulnerable](DEFCON_31_Cloud_Village_SSO_Sloppy_Suspect_Vulnerable_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=brTnLvKUyDQ)|
 |Apr&nbsp;2023|RSAC&nbsp;2023|Main Stage|[The Dark Underbelly of 3rd-Party Application Access to Corporate Data](IDY-T01-The_Dark_Underbelly_of_3rd-Party_Application_Access_to_Corporate_Data_Final.pdf)|[Youtube](https://www.youtube.com/watch?v=qzA0Ehltdyc)|
 |Aug&nbsp;2022|DEFCON&nbsp;30|Cloud&nbsp;Village|[OAuthsome Magic Tricks: Yet more OAuth abuse](DEFCON_30_Cloud_Village_Oauthsome_Magic_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=F-s1OAq9C64)|
 |Jun&nbsp;2022|RSAC&nbsp;2022|Main Stage|[Defending Against New Phishing Attacks that Abuse OAuth Authorization Flows](IDY-RO2_Defending_Against_New_Phishing_Attacks_that_Abuse_OAuth_Authorization_Flows.pdf)|[Youtube](https://www.youtube.com/watch?v=aBQTg3V53Fw)|
-|Jun&nbsp;2022|RSAC&nbsp;2022|Lab|Lab: Advanced Discovery, Persistence, and Privilege Escalation in AWS, GCP, Azure||
+|Jun&nbsp;2022|RSAC&nbsp;2022|Lab|Lab: Privilege Escalation and Persistence in AWS||
 |Aug&nbsp;2021|DEFCON&nbsp;29|Main Stage|[New Phishing Attacks Exploiting OAuth Authorization Flows](DEFCON_29_New_Phishing_Attacks_Exploiting_OAuth_Authorization_Flows_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=4J4RT4oMYdA)|
 |Dec&nbsp;2020|BlackHat&nbsp;Europe&nbsp;2020|Remote|[IAM Concerned: OAuth Token Hijacking in Google Cloud](eu-20-Hwong-IAM-Concerned-OAuth-Token-Hijacking-In-Google-Cloud-GCP.pdf)|[Youtube](https://www.youtube.com/watch?v=motZouxkVZ0)|
 |Aug&nbsp;2020|DEFCON&nbsp;28|Cloud&nbsp;Village|[GCP OAuth Token Hijacking](DEFCON_28_Cloud_Village_GCP_OAuth_Token_Hijacking_Jenko_Hwong.pdf)|[Youtube](https://www.youtube.com/watch?v=mlUW77yxapQ&list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn&t=0)|
